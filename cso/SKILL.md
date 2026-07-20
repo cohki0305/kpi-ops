@@ -19,7 +19,7 @@ description: "経営者の戦略策定とKPI運用のためのスキル。Use wh
 
 | ファイル | 内容 |
 |---|---|
-| `~/business/strategy/strategy.md` | 戦略、NSM、KPIツリー、因果仮説、目標値、閾値 |
+| `~/business/strategy/strategy.md` | 戦略、NSM、KPIツリー、因果仮説、目標値、オーナー、閾値 |
 | `~/business/strategy/kpi-log.md` | 週次実績、診断結果、KPI変更履歴 |
 
 ディレクトリが無ければ作成する。`kpi-log.md` の形式が壊れていたら、黙って上書きせず
