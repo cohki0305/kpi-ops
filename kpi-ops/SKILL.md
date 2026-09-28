@@ -3,7 +3,7 @@ name: kpi-ops
 description: "経営者の戦略策定とKPI運用のためのスキル。Use when the user wants to create a business strategy with KPIs, design behavioral/action KPIs (行動KPI), run a weekly KPI review, report KPI actuals, or analyze why a KPI was missed and whether to change targets. Triggers: 戦略を立てたい, KPI設計, KPIツリー, 週次レビュー, KPI報告, 振り返り, 未達分析, なぜ達成できなかった, North Star Metric, 目標見直し."
 ---
 
-# CSO — 戦略→KPI設計→週次レビュー
+# kpi-ops — 戦略→KPI設計→週次レビュー
 
 ## Overview
 
